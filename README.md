@@ -55,7 +55,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/blinkit-data-project.git
+git clone https://github.com/Nikhilingole098/BlinkIT-Data-Project-Excel
 Open the Excel file BlinkIT Data Project.xlsx.
 
 Explore:
